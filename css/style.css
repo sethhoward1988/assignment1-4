@@ -1,0 +1,44 @@
+#page-wrap{
+	max-width: 700px;
+	margin-right: auto;
+	margin-left: auto;
+}
+section{
+	overflow:auto;
+	padding-bottom:2em;
+}
+textarea{
+	min-width: 40%;
+	min-height: 6em;
+}
+label{
+	font-weight: bold;
+}
+#nav ul{
+	padding: 0;
+	margin: 0;
+}
+#nav li{
+	list-style-type: none;
+	float:left;
+	padding-right:2em;
+}
+.work-education h4{
+margin:0 0 0.2em 0;
+}
+.work-education h3{
+margin-bottom: 0;
+}
+.work-education ul{
+	padding: 0;
+	margin: 0;
+}
+.work-education li{
+	list-style-type: none;
+}
+.tasks {
+	padding:1em 0 0 2em;
+}
+.tasks li{
+	list-style-type: circle;
+}
